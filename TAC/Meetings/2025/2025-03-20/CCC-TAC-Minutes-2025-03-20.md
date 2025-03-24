@@ -97,14 +97,16 @@ Hui Chunyang (HC) introduced themselves
 * Mentorship : 
 Fritz Alder (FA) suggested having the mentees join a future TAC meeting to share about their work. RK provided an update on the mentorship program, mentioning all mentees are on track at the halfway mark. Yash Mankad (YM) mentioned that the projects are encouraged to start thinking about ideas for the next term of mentorships.
  
-* Annual project updates
+* Annual project updates Occulum
 * Annual Project Review Occulum was presented by HC. There were some technical questions and discussions following the Occlum presentation. There were discussions about potential collaboration opportunities with other projects, especially regarding Occlum's I/O improvements.
+  [Slide](./occlum-2025-annual-review.pdf)
 
 ## Discussion:   Workload Identity 
 * Mark Novak (MN) led the discussion on the workload identity. MN explained why workload identity integration is crucial for the broader adoption of confidential computing.MN discussed a proposal for a Trustworthy Workload Identity SIG (Special Interest Group). MN mentioned that there are existing workload identity efforts, but some groups, like the IETF, are currently not supportive of the proposal. The group is moving forward with a proposal for a Trustworthy Workload Identity SIG. Mark Novak made the case for its importance for broader confidential computing adoption. Paul Howard (PH), DM, Alec Fernandez (AF) & Catherine Zhang (CZ),  expressed interest and commitment to stay involved. TAC members from Arm, Google, Intel, Red Hat and Microsoft expressed interest in engaging with the workload identity effort, though some noted bandwidth constraints. There were questions about ensuring enough active participation and alignment with other initiatives like WHIMSE. MN emphasized that the strategy for the workload identity effort is not to create a separate standard but to influence existing standards (like SPIFFE and WIMSE) to be compatible with confidential computing.
 
 * Annual Project Review VirTEE
 The Annual Project Review Occulum was presented by Tyer Fanelli. VirTEE project gave its annual review, highlighting its progress in supporting more TEE architectures, increasing adoption, and outlining plans for the current year.
+[Slide](./virtee-ccc-annual-review-2025.pdf)
 
 * Voting for Veracruz to Emeritus stage
 DM explained the emeritus stage. There was a discussion about the emeritus stage for projects, with Veracruz being the first CCC project to enter this stage.PH mentioned he'd follow up on the Veracruz emeritus PR, as one of their maintainers had been on vacation. There was a discussion about moving the Veracruz project to the emeritus stage. A process was outlined, including adding a notice to the project README and waiting a month before archiving.

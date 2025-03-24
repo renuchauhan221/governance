@@ -92,7 +92,7 @@ Hui Chunyang (HC) introduced themselves
 * DM reviewed the old Business covered in the previous meeting. 
 
 ### Announcements 
-* GB Meeting: DM mentioned the upcoming Governing Board meeting on March 26, 2025. DM emphasised having the agendas in advance. TAC shall be presenting Workload identity, OpenHCL proposal, and Liaisons. Mike Bursell (MB) mentioned the Board is interested in ad tech use cases related to confidential computing and privacy. MB further introduced the Ad Tech engagement. DM mentioned that there's an ongoing analysis of GDPR and confidential computing for compliance purposes, which is nearing the final draft stage & can be one of the inputs for the GB meeting next week.
+* GB Meeting: DM mentioned the upcoming Governing Board meeting on March 26, 2025. DM emphasised having the agendas in advance. TAC shall be presenting Workload identity, OpenHCL proposal, and Liaisons. Mike Bursell (MB) mentioned the Board is interested in ad tech use cases related to confidential computing and privacy. MB further introduced the Ad Tech engagement. DM mentioned that there's an ongoing analysis of GDPR and confidential computing for compliance purposes, which is nearing the final draft stage and can be one of the inputs for the GB meeting next week.
 
 * Mentorship : 
 Fritz Alder (FA) suggested having the mentees join a future TAC meeting to share about their work. RK provided an update on the mentorship program, mentioning all mentees are on track at the halfway mark. Yash Mankad (YM) mentioned that the projects are encouraged to start thinking about ideas for the next term of mentorships.
